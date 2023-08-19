@@ -1,0 +1,178 @@
+{
+    "Estado": "OK",
+    "numeroSubzonas": 5,
+    "fechaSolicitud": "2023-06-24 14:15:23",
+    "subZonas": [
+        {
+            "subZonaId": 466,
+            "nombre": "SUBZONA 2329",
+            "centro": {
+                "latitud": -0.09688098728656769,
+                "longitud": -78.41944122314453
+            },
+            "poligono": [
+                {
+                    "latitud": -0.09672555327415466,
+                    "longitud": -78.4195785522461
+                },
+                {
+                    "latitud": -0.09676306694746017,
+                    "longitud": -78.41960144042969
+                },
+                {
+                    "latitud": -0.09711291640996933,
+                    "longitud": -78.41922760009766
+                },
+                {
+                    "latitud": -0.09707784652709961,
+                    "longitud": -78.41920471191406
+                },
+                {
+                    "latitud": -0.09672555327415466,
+                    "longitud": -78.4195785522461
+                }
+            ],
+            "totalEspacios": 97,
+            "porcentajeOcupacion": 60,
+            "mensaje": "",
+            "marca": "Yellow"
+        },
+        {
+            "subZonaId": 462,
+            "nombre": "SUBZONA 2325",
+            "centro": {
+                "latitud": -0.09732459485530853,
+                "longitud": -78.41989135742188
+            },
+            "poligono": [
+                {
+                    "latitud": -0.0971713662147522,
+                    "longitud": -78.42003631591797
+                },
+                {
+                    "latitud": -0.09720421582460403,
+                    "longitud": -78.42007446289062
+                },
+                {
+                    "latitud": -0.09755592793226242,
+                    "longitud": -78.41967010498047
+                },
+                {
+                    "latitud": -0.09752008318901062,
+                    "longitud": -78.41963958740234
+                },
+                {
+                    "latitud": -0.0971713662147522,
+                    "longitud": -78.42003631591797
+                }
+            ],
+            "totalEspacios": 60,
+            "porcentajeOcupacion": 7,
+            "mensaje": "",
+            "marca": "Green"
+        },
+        {
+            "subZonaId": 464,
+            "nombre": "SUBZONA 2327",
+            "centro": {
+                "latitud": -0.09693221002817154,
+                "longitud": -78.41983795166016
+            },
+            "poligono": [
+                {
+                    "latitud": -0.09680663794279099,
+                    "longitud": -78.4197006225586
+                },
+                {
+                    "latitud": -0.0967789888381958,
+                    "longitud": -78.41973876953125
+                },
+                {
+                    "latitud": -0.09712029248476028,
+                    "longitud": -78.4200439453125
+                },
+                {
+                    "latitud": -0.09714850038290024,
+                    "longitud": -78.42000579833984
+                },
+                {
+                    "latitud": -0.09680663794279099,
+                    "longitud": -78.4197006225586
+                }
+            ],
+            "totalEspacios": 91,
+            "porcentajeOcupacion": 70,
+            "mensaje": "",
+            "marca": "Brown"
+        },
+        {
+            "subZonaId": 465,
+            "nombre": "SUBZONA 2328",
+            "centro": {
+                "latitud": -0.09647763520479202,
+                "longitud": -78.41988372802734
+            },
+            "poligono": [
+                {
+                    "latitud": -0.09637991338968277,
+                    "longitud": -78.41996002197266
+                },
+                {
+                    "latitud": -0.0964178517460823,
+                    "longitud": -78.41998291015625
+                },
+                {
+                    "latitud": -0.09661971032619476,
+                    "longitud": -78.41976928710938
+                },
+                {
+                    "latitud": -0.09659077227115631,
+                    "longitud": -78.41974639892578
+                },
+                {
+                    "latitud": -0.09637991338968277,
+                    "longitud": -78.41996002197266
+                }
+            ],
+            "totalEspacios": 9,
+            "porcentajeOcupacion": 59,
+            "mensaje": "",
+            "marca": "Yellow"
+        },
+        {
+            "subZonaId": 461,
+            "nombre": "SUBZONA 2324",
+            "centro": {
+                "latitud": -0.09739184379577637,
+                "longitud": -78.42024993896484
+            },
+            "poligono": [
+                {
+                    "latitud": -0.09726852923631668,
+                    "longitud": -78.42012023925781
+                },
+                {
+                    "latitud": -0.09724510461091995,
+                    "longitud": -78.4201431274414
+                },
+                {
+                    "latitud": -0.0975784957408905,
+                    "longitud": -78.42044067382812
+                },
+                {
+                    "latitud": -0.09759857505559921,
+                    "longitud": -78.42041778564453
+                },
+                {
+                    "latitud": -0.09726852923631668,
+                    "longitud": -78.42012023925781
+                }
+            ],
+            "totalEspacios": 50,
+            "porcentajeOcupacion": 60,
+            "mensaje": "",
+            "marca": "Yellow"
+        }
+    ],
+    "Mensajes": []
+}
