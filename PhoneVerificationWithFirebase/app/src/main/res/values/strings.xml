@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PhoneVerificationWithFirebase</string>
+    <string name="default_web_client_id">794160188347-8hapb6v1mgbe9825kleu97stqfv81asb.apps.googleusercontent.com</string>
+
+
+    <string name="facebook_app_id">1004188907392831</string>
+    <string name="fb_login_protocol_scheme">fb1004188907392831</string>
+    <string name="facebook_client_token">067250f072c5dfb77616c6d4ba16e133</string>
+
+
+
+</resources>

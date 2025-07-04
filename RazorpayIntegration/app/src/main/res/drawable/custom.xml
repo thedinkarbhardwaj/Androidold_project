@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Square shape -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/transparent"/>
+            <size
+                android:width="100dp"
+                android:height="100dp"/>
+        </shape>
+    </item>
+
+    <!-- Small circle on the right side -->
+    <item android:right="0dp" android:width="30dp" android:height="30dp"
+        android:gravity="right|center_vertical" android:end="-10dp">
+        <shape android:shape="oval">
+            <solid android:color="@android:color/transparent"/>
+            <stroke android:color="@color/red" android:width="2dp"/>
+        </shape >
+            </item>
+
+
+    <item android:bottom="-10dp" android:width="30dp"
+        android:height="30dp"
+        android:gravity="bottom|center_horizontal">
+        <shape android:shape="oval">
+            <solid android:color="#b7e9c9"/>
+
+        </shape>
+    </item>
+
+</layer-list>

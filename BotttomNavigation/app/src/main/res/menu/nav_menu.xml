@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+
+<group android:checkableBehavior="all">
+    <item android:id="@+id/nav_prime"
+        android:icon="@drawable/baseline_add_alert_24"
+        android:title="Prime"
+        />
+    <item
+        android:icon="@drawable/baseline_add_alert_24"
+        android:title="Prime"
+        />
+    <item
+        android:icon="@drawable/baseline_add_alert_24"
+        android:title="Prime"
+        />
+    <item
+        android:icon="@drawable/baseline_add_alert_24"
+        android:title="Prime"
+        />
+    <item
+        android:icon="@drawable/baseline_add_alert_24"
+        android:title="Prime"
+        />
+</group>
+</menu>
